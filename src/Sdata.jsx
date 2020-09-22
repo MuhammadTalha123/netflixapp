@@ -6,7 +6,7 @@ const Sdata = [
         link:'https://www.netflix.com/pk/title/80127001'
     },
     {
-        imgsrc:'https://nextalerts.com/wp-content/uploads/2020/05/thedarkposter-1024x576.jpg',
+        imgsrc:'https://external-preview.redd.it/Ka1KtRZdq_w5g16uR7l33xbIlWzZr6AGJIK1swD07fc.jpg?auto=webp&s=9785dcc24bb429e955fbaf8747edf6bcb5b3683b',
         title : 'A Netflix Orignal Series',
         sname:'DARK',
         link:'https://www.netflix.com/pk/title/80100172'
