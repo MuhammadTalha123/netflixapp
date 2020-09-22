@@ -24,6 +24,12 @@ const Sdata = [
        link:'https://www.netflix.com/pk/title/80025678'
     },
     {
+        imgsrc:'https://images-na.ssl-images-amazon.com/images/I/81uK8j96skL._AC_SL1500_.jpg',
+       title : 'A Netflix Orignal Series',
+       sname:'The Witcher',
+       link:'https://www.netflix.com/pk/title/80189685'
+    },
+    {
         imgsrc:'https://images-na.ssl-images-amazon.com/images/I/81SWlvJvkTL._AC_SL1500_.jpg',
        title : 'A Netflix Orignal Series',
        sname:'The Umbrella Academy',
